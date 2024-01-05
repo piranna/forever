@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [piranna/forever](https://github.com/piranna/forever)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|12/27/23 <br/>Report generated|
+|20<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -140,19 +140,21 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[colors](https://www.npmjs.com/colors)|v0.6.2|12/12/13|Julian Duque |MIT|N/A|
 |[eventemitter2](https://www.npmjs.com/eventemitter2)|N/A|01/05/12|indexzero |MIT|N/A|
+|[nconf](https://www.npmjs.com/nconf)|v0.6.9|12/12/13|Julian Duque |MIT|[CVE-2022-21803](https://github.com/advisories/GHSA-6xwr-q98w-rvg7) (High)|
 |[optimist](https://www.npmjs.com/optimist)|v0.6.0|12/12/13|Julian Duque |MIT,X11|N/A|
 |[pkginfo](https://www.npmjs.com/pkginfo)|v0.3.0|04/21/13|indexzero |MIT|N/A|
 |[request](https://www.npmjs.com/request)|N/A|01/05/12|indexzero |Apache-2.0|N/A|
 |[vows](https://www.npmjs.com/vows)|N/A|04/21/13|indexzero |Apache-2.0|N/A|
 |[watch](https://www.npmjs.com/watch)|v0.8.0|12/12/13|Julian Duque |Apache-2.0|N/A|
+|[winston](https://www.npmjs.com/winston)|v0.7.2|12/12/13|Julian Duque |MIT|N/A|
 
 <br/>
 <div align='center'>
