@@ -2,7 +2,7 @@ repo_name: piranna/forever
 report_id: 3f318f8df7ede459d74c1de50a112455
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:15:04+00:00'
+timestamp: '2024-02-29T19:11:57+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -43,7 +43,7 @@ tools:
   detection_source_url: https://github.com/piranna/forever
   detection_source: Repo Metadata
 - name: Monit
-  description: 'A free, open-source process supervision tool '
+  description: A free, open-source process supervision tool
   website_url: https://mmonit.com
   open_source: false
   hosted_saas: false
